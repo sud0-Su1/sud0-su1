@@ -8,6 +8,6 @@
      <img src="https://skillicons.dev/icons?i=kafka,matlab,tensorflow,sklearn,pytorch,npm,anaconda" />
    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter" />
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker" />
-     <img src="https://skillicons.dev/icons?i=kafka, mongodb, mysql, scala, supabase" />
+     <img src="https://skillicons.dev/icons?i=kafka, mongodb, mysql, scala" />
   </a>
 </p>
